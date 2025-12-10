@@ -1,6 +1,15 @@
 """
 Ravenfoot Password Generator (Teletext Edition) — v2 portable
 ================================================================
+
+Purpose
+-------
+Retro-styled GUI (Ceefax/Oracle vibe) that generates passphrases from multiple
+language wordlists, with optional numbers/specials sprinkled in. Provides a
+live entropy estimate, copy-to-clipboard, and a plaintext history log written
+to a user-writable location. Designed to run both in development and as a
+single-file PyInstaller bundle.
+
 """
 
 from __future__ import annotations
