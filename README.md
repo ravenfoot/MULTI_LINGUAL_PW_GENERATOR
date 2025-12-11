@@ -19,6 +19,14 @@ No coding required. Download the pre-compiled standalone for your OS from **[Rel
 * **Windows:** `Ravenfoot_P100.exe` (Portable, no install needed)
 * **Linux:** `Ravenfoot_p100_v1.0_amd64.deb` (Debian/Ubuntu package)
 
+## ⬇️ Downloads
+
+- 🪟 **Windows (.exe)** — [Ravenfoot_P100.exe](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/download/Latest/Ravenfoot_P100.exe)
+- 🐧 **Linux (.deb)** — [ravenfoot_p100_v1.0_amd64.deb](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/download/Latest.deb/ravenfoot_p100_v1.0_amd64.deb)
+
+> Or browse the **[latest release page](../../releases/latest)** for notes and checksums.
+
+
 ---
 
 ## 2. 📺 The Mission
