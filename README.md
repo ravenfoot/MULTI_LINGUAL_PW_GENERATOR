@@ -7,10 +7,19 @@
 # A retro-styled, multilingual passphrase generator.
 #
 # Version:  1.0 (Teletext Edition)
-# License:  MIT (or your choice)
+# License:  Apache License 2.0
 # Status:   Production / Stable
 # ==============================================================================
 ```
+## 0. 🧬 Ravenfoot projects
+
+a) [Ravenfoot Calculator (Legacy)](https://github.com/ravenfoot/Ravenfoot.Calculator.Legacy.Edition)
+b) Ravenfoot Passwords — P100 (Teletext Edition) <--- You are here
+c) [Ravenfoot Rune Timer (Dota 2)](https://github.com/ravenfoot/Ravenfoot.Rune.Timer.Dota.2)
+d) [Ravenfoot NAS Automation (Bash Edition)](https://github.com/ravenfoot/Ravenfoot.NAS.Automation.Bash.Edition)
+e) [Ravenfoot Webpage](https://github.com/ravenfoot/Ravenfoot.Webpage)
+f) [Ravenfoot Scryer — AoW Overlay (Stage 1)](https://github.com/ravenfoot/Ravenfoot.Scryer.AoW.Overlay.1)
+
 
 ## 1. 💾 Quick Start (Binaries)
 
@@ -51,14 +60,15 @@ No coding required. Download the pre-compiled standalone for your OS from **[Rel
 
 ## 4. 🛠️ Usage & Extensibility
 
-### Running from Source
+### Run from source (Linux/Windows/macOS)
 ```bash
 # Clone and enter directory
-git clone [https://github.com/yourusername/ravenfoot_p100.git](https://github.com/yourusername/ravenfoot_p100.git)
-cd ravenfoot_p100
+git clone https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition.git
+cd Ravenfoot.Passwords.P100.Teletext-Edition
 
-# Install dependencies (Pillow is optional but recommended for icons)
-pip install pillow
+# Optional (for nicer icon scaling)
+python3 -m pip install --upgrade pip
+python3 -m pip install pillow
 
 # Launch
 python3 generator_core/teletext_generator.py
