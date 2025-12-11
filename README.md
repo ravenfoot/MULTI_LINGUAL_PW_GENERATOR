@@ -1,3 +1,5 @@
+
+```text
 #!/usr/bin/env markdown
 # ==============================================================================
 # 🔐 RAVENFOOT P100 — README
@@ -8,13 +10,14 @@
 # License:  MIT (or your choice)
 # Status:   Production / Stable
 # ==============================================================================
+```
 
 ## 1. 💾 Quick Start (Binaries)
 
 No coding required. Download the pre-compiled standalone for your OS from **[Releases]**:
 
 * **Windows:** `Ravenfoot_P100.exe` (Portable, no install needed)
-* **Linux:** `ravenfoot_p100_v1.0_amd64.deb` (Debian/Ubuntu package)
+* **Linux:** `Ravenfoot_p100_v1.0_amd64.deb` (Debian/Ubuntu package)
 
 ---
 
