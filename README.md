@@ -1,16 +1,16 @@
 
-```text
-#!/usr/bin/env markdown
-# ==============================================================================
-# 🔐 RAVENFOOT P100 — README
-# ==============================================================================
-# A retro-styled, multilingual passphrase generator.
-#
-# Version:  1.0 (Teletext Edition)
-# License:  Apache License 2.0
-# Status:   Production / Stable
-# ==============================================================================
-```
+
+## !/usr/bin/env markdown
+## ==============================================================================
+## 🔐 RAVENFOOT P100 — README
+## ==============================================================================
+## A retro-styled, multilingual passphrase generator.
+##
+## Version:  1.0 (Teletext Edition)
+## License:  Apache License 2.0
+## Status:   Production / Stable
+## ==============================================================================
+
 ## 0. 🧬 Ravenfoot projects
 
 * **a)** [Ravenfoot Calculator (Legacy)](https://github.com/ravenfoot/Ravenfoot.Calculator.Legacy.Edition)
