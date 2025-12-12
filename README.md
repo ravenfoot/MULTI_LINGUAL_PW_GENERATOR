@@ -3,11 +3,11 @@
 
 **==============================================================================**
 
-**🔐 RAVENFOOT P100 — README
+**🔐 RAVENFOOT P100 — README**
 
 **==============================================================================**
 
-**A retro-styled, multilingual passphrase generator.
+**A retro-styled, multilingual passphrase generator.**
 
 **Version:  1.2.0 (Teletext Edition)**
 **License:  Apache License 2.0**
