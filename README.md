@@ -1,15 +1,15 @@
 
-####!/usr/bin/env markdown<br/> 
-####==============================================================================<br/> 
-####🔐 RAVENFOOT P100 — README<br/> 
-####==============================================================================<br/> 
+#212121!/usr/bin/env markdown<br/> 
+#212121==============================================================================<br/> 
+#212121🔐 RAVENFOOT P100 — README<br/> 
+#212121==============================================================================<br/> 
 <br/> 
-####A retro-styled, multilingual passphrase generator.<br/> 
-####Version:  1.2.0 (Teletext Edition)<br/> 
-####License:  Apache License 2.0<br/> 
-####Status:   Production / Stable<br/> 
+#212121A retro-styled, multilingual passphrase generator.<br/> 
+#212121Version:  1.2.0 (Teletext Edition)<br/> 
+#212121License:  Apache License 2.0<br/> 
+#212121Status:   Production / Stable<br/> 
 <br/> 
-####==============================================================================
+#212121==============================================================================
 
 ## 0. 🧬 Ravenfoot projects
 
