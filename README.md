@@ -71,7 +71,7 @@ python3 -m pip install pillow
 
 # Launch
 python3 generator_core/teletext_generator.py
-
+```
 
 **==============================================================================**
 
