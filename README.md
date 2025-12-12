@@ -21,17 +21,12 @@
 * **f)** [Ravenfoot Scryer — AoW Overlay (Stage 1)](https://github.com/ravenfoot/Ravenfoot.Scryer.AoW.Overlay.1)
 
 
-## 1. 💾 Quick Start (Binaries)
+## 1. ️️⬇️ Downloads (Binaries)
 
 No coding required. Download the pre-compiled standalone for your OS from **[Releases]**:
 
-* **Windows:** `Ravenfoot_P100.exe` (Portable, no install needed)
-* **Linux:** `Ravenfoot_p100_v1.0_amd64.deb` (Debian/Ubuntu package)
-
-## ⬇️ Downloads
-
-- 🪟 **Windows (.exe)** — [Ravenfoot_P100.exe](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/download/Latest/Ravenfoot_P100.exe)
-- 🐧 **Linux (.deb)** — [ravenfoot_p100_v1.0_amd64.deb](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/download/Latest.deb/ravenfoot_p100_v1.0_amd64.deb)
+- 🪟 **Windows (.exe)** — [Ravenfoot_P100.exe](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/download/Latest/Ravenfoot_P100.exe) (Portable, no install needed)
+- 🐧 **Linux (.deb)** — [ravenfoot_p100_v1.0_amd64.deb](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/download/Latest.deb/ravenfoot_p100_v1.0_amd64.deb) (Debian/Ubuntu package)
 
 > Or browse the **[latest release page](../../releases/latest)** for notes and checksums.
 
