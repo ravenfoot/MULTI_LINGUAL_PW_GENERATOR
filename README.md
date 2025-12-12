@@ -1,13 +1,17 @@
 
 <h5><code>#!/usr/bin/env markdown</code><br>
 <code>#==============================================================================</code><br>
-<code>#🔐 RAVENFOOT P100 — README</code><br>
+<code># 🔐 RAVENFOOT PASSWORDS — P100 (Teletext Edition)</code><br>
 <code>#==============================================================================</code><br>
-<code>#A retro-styled, multilingual passphrase generator.</code><br>
-<code>#Version: 1.2.0 (Teletext Edition)</code><br>
-<code>#License: Apache License 2.0</code><br>
-<code>#Status: Production / Stable</code><br>
+<code># Purpose: Retro-styled, multilingual password generator with live entropy.</code><br>
+<code># Audience: End users, reviewers, hiring managers.</code><br>
+<code># Stack: Python · Tkinter · (optional) Pillow</code><br>
+<code># Version: 1.2.0</code><br>
+<code># License: Apache-2.0</code><br>
+<code># Status: Production / Stable</code><br>
+<code># Author: Ravenfoot</code><br>
 <code>#==============================================================================</code></h5>
+
 
 
 ## 0. 🧬 Ravenfoot projects
