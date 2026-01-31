@@ -100,8 +100,8 @@ ravenfoot_password_generator/
 │
 ├── password_log/					  
 │	└── password_history.sample       #	   → A history of generatted passwordsaftter instalation this lands in:
-│											🪟 Windows:  %APPDATA%\RavenfootPassword or
-│											🐧 Linux:    ~/.ravenfoot_password/password_history.txt)
+│									  #	    🪟 Windows:  %APPDATA%\RavenfootPassword or
+│									  #	    🐧 Linux:    ~/.ravenfoot_password/password_history.txt)
 │
 └── docs/                 		      # 📄 The Documentation
     ├── setup_script.iss 			  #    → Standard installer setup
@@ -130,7 +130,7 @@ ravenfoot_password_generator/
 
 ---
 
-## 7. 🔄 Refactoring Log: v1.0 → v1.3
+## 7. 🔄 Refactoring Log: v1.0 → v1.2
 
 To prepare for release, the code underwent a "Professional Polish" refactor:
 
@@ -170,6 +170,10 @@ pyinstaller --noconfirm --onefile --windowed --name "ravenfoot-p100" --add-data 
 dpkg-deb --build build/deb/ravenfoot-p100
 
 ~~~
+
+
+**🟡Make sure .png's and .ico are added if building from the ground up🟡**
+
 
 ## 9. 🔧 Troubleshooting & Known Issues
 
