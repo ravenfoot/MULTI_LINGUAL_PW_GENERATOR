@@ -67,8 +67,8 @@ Is a secure password generator wrapped in a nostalgic **Ceefax/Teletext** interf
 
 **No installation required.** Download the standalone executable for your OS:
 
-- 🪟 **Windows (.exe)** — [Ravenfoot_P100.exe](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases)
-- 🐧 **Linux (.deb)** — [ravenfoot_p100_amd64.deb](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases)
+- 🪟 **Windows (.exe)** — [Ravenfoot_P100.exe](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/tag/Latest.exe)
+- 🐧 **Linux (.deb)** — [ravenfoot_p100_amd64.deb](https://github.com/ravenfoot/Ravenfoot.Passwords.P100.Teletext-Edition/releases/tag/Latest.deb)
 
 ### 📂 Where is my Password History?
 For security and permissions reasons, the plaintext log is stored in your user profile directory rather than next to the application.
@@ -130,7 +130,7 @@ ravenfoot_password_generator/
 
 ---
 
-## 7. 🔄 Refactoring Log: v1.0 → v1.3
+## 7. 🔄 Refactoring Log: v1.0 → v1.2
 
 To prepare for release, the code underwent a "Professional Polish" refactor:
 
